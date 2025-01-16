@@ -1,0 +1,20 @@
+# Visual Studio файлы
+.vs/
+.vs/*
+
+# Выходные папки сборки
+bin/
+obj/
+
+# Скомпилированные файлы
+*.dll
+*.exe
+*.pdb
+
+# Временные файлы сборки
+*.cache
+*.tmp
+*.log
+*.tlog
+*.csproj.FileListAbsolute.txt
+
